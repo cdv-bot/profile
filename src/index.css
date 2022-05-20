@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   font-family: 'MyFont';
+  src: local('MyFont'), url(./DFVN_CALATHEA.otf) format('woff');
 }
 
 code {
